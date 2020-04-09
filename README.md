@@ -6,3 +6,5 @@ I created this project in 2018 to learn a bit of React. The whole purpose of thi
 <strong>The site is no longer active, but the code is still available for everyone to see how we did it. I had my buddy help lead me in the right directions so I didn't make any silly mistakes.</strong>
 
 Great learning experience!
+
+Netlify URL: https://musing-feynman-01727b.netlify.com/
